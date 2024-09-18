@@ -1,0 +1,3 @@
+nama : Nurcholis
+npm  : 2125240027
+email : Nurcholis@mhs.mdp.ac.id
