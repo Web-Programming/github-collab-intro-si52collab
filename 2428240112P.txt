@@ -1,0 +1,3 @@
+NAMA = AGUNG RISKI ARIZA
+NPM = 2428240112P
+EMAIL = agungrarz@alumni.mdp.ac.id
