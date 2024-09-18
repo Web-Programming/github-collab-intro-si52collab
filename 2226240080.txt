@@ -1,0 +1,3 @@
+npm = 2226240080
+nama = Shella Marcelia
+email = shellamarcelia_2226240080@mhs.mdp.ac.id
